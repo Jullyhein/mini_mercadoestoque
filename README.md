@@ -1,3 +1,9 @@
+## Rodar projeto
+
+python -m src.infrastructure.http.wpp
+
+
+
 # 📦 Gestão de Estoque para Mini Mercados
 
 ## 📌 Objetivo
